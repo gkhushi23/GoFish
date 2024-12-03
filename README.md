@@ -1,10 +1,14 @@
 Go Fish Game 🎴
+
 A command-line implementation of the classic card game Go Fish, written in Java. This project showcases object-oriented programming (OOP) concepts like encapsulation, inheritance, and polymorphism, making it a great example for learning and practicing Java development.
 
 Introduction
+
 The Go Fish card game is a simple yet strategic game where players aim to collect sets of four cards of the same rank. This project simulates a two-player version of the game, focusing on the core gameplay mechanics.
 
+
 Features
+
 Two-player gameplay.
 Card deck initialization with shuffling.
 Players can:
@@ -24,11 +28,17 @@ The game ends when:
 The deck is empty, or
 All sets are completed.
 The player with the most completed sets wins!
+
+
 Setup and Installation
+
 Prerequisites
+
 Java Development Kit (JDK) 8 or higher
 A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code) or a terminal for compilation.
+
 Installation
+
 Clone the repository:
 bash
 Copy code
@@ -48,7 +58,9 @@ Copy code
 java GoFish
 Follow the on-screen instructions to play the game.
 
+
 Project Structure
+
 bash
 Copy code
 ├── Card.java       # Represents a single card in the game
