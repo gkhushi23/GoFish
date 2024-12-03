@@ -58,13 +58,3 @@ Copy code
 java GoFish
 Follow the on-screen instructions to play the game.
 
-
-Project Structure
-
-bash
-Copy code
-├── Card.java       # Represents a single card in the game
-├── Deck.java       # Represents the deck of cards
-├── Player.java     # Represents a player in the game
-├── Game.java       # Manages the game logic and flow
-└── GoFish.java     # Entry point to the game
